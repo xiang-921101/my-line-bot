@@ -6,7 +6,7 @@ import os
 openai.api_key = "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"
 
 # 輸入文本
-input_text = "今天天氣很好，請用中文回答。請做一首跟媽媽有關的詩"
+input_text = "今天天氣很好，請用中文回答。請做一首跟有關的詩"
 
 # 設定 GPT-3.5 模型的檢索引擎
 model_engine = "text-davinci-003"
